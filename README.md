@@ -20,7 +20,7 @@
 
 
 ## 4. 인프라 구조
-<img width="877" alt="기술 스택 이미지" src="https://github.com/handseokjin/youtube-clone-server-spring/assets/32458465/cad86307-0f24-43d1-875e-f310aa537ba2">
+<img width="877" alt="기술 스택 이미지" src="https://github.com/handseokjin/youtube-clone-server-spring/assets/32458465/5116bd1c-8403-402f-a989-d5a4daa00900">
 <br/><br/>
 
 
